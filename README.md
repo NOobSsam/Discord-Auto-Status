@@ -19,3 +19,4 @@ Now, finally you will go on line 51 and change the following:
 
 And if you want to change the interval in which it updates go to line 52,
 and change 3660 to whatever you please, the time is in seconds.
+(Be careful as this may get you rate limited and banned)
